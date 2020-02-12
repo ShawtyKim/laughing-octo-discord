@@ -1,2 +1,2 @@
-# laughing-octo-discord
+# discord-bot-atom
 A Bot.
